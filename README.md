@@ -2,7 +2,7 @@
 
 ## Project Overview
 The goal of this project is to build a machine learning model to optimize retail pricing in a competitive business environment. By leveraging historical sales data and features related to products, competitors, and market conditions, the project aim to predict the optimal pricing strategy that maximizes sales and revenue for the company.
-## Buisness Objective
+## Buisness Objectives
 * Maximize Revenue: Optimize pricing strategies to increase overall revenue.
 *	Competitive Analysis: Understand how competitor pricing affects demand and adjust our prices accordingly.
 *	Demand Forecasting: Accurately predict sales quantities based on price changes and other influencing factors.
